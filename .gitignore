@@ -48,6 +48,17 @@ src/main/resources/webview/
 *.ipr
 *.iws
 
+# Visual Studio 2022
+.vs/
+*.vsidx
+*.sqlite
+*.db
+*.db-shm
+*.db-wal
+*.wsuo
+*.backup.json
+*.slnx
+
 # Local env
 .env
 .env.local
