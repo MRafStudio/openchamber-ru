@@ -13,6 +13,7 @@ export const dict: Record<I18nKey, string> = {
   "common.language.brazilianPortuguese": "Бразильська португальська",
   "common.language.korean": "Корейська",
   "common.language.polish": "Польська",
+  "common.language.russian": "Русский",
   "common.revealPath.finder": "Показати у Finder",
   "common.revealPath.fileExplorer": "Відкрити у File Explorer",
   "common.revealPath.fileManager": "Відкрити у файловому менеджері",
